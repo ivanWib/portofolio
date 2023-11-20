@@ -40,22 +40,25 @@ export default function Home() {
             <div class="flex p-10 h-full w-full justify-center bg-[#222222]">
               <div class="flex gap-10 text-2xl font-black text-white">
                 <div className="w-96 ">
-
-                
-
                   <Image
-                    src="/../public/Foto_Ivan.jpg"
+                    src="/Foto_ivan.jpg"
                     width={500}
                     height={500}
-                    alt="Picture of the author"
+                    alt="Picture Ivan"
                     className="rounded-full"
                   />
-
-
-                  </div>
-                <div className="text-lg w-96">As a passionate Computer Science student, I have a strong dedication to becoming a successful web developer. My experience in various projects and organizations focused on website development has enriched my technical skills in the world of web development. I am determined to continue honing these skills and contribute to innovative and impactful web projects. With a strong focus on web development, I am determined to become a dedicated and productive web specialist.</div>
-
-                
+                </div>
+                <div className="text-lg w-96">
+                  As a passionate Computer Science student, I have a strong
+                  dedication to becoming a successful web developer. My
+                  experience in various projects and organizations focused on
+                  website development has enriched my technical skills in the
+                  world of web development. I am determined to continue honing
+                  these skills and contribute to innovative and impactful web
+                  projects. With a strong focus on web development, I am
+                  determined to become a dedicated and productive web
+                  specialist.
+                </div>
               </div>
             </div>
           </div>
