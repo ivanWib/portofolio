@@ -63,8 +63,6 @@ export default function Home() {
             </div>
           </div>
         </div>
-
-        {/* <Bintang /> */}
       </section>
 
       {/* <section className="bg-black h-screen w-screen relative">
